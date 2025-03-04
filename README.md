@@ -1,5 +1,3 @@
-![taehoo-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehoo-kim&theme=dark&show_icons=true)
-
 <h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp
