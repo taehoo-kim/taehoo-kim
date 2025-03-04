@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![taehoo-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehoo-kim&theme=dark&show_icons=true)
+<div align="center">![taehoo-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehoo-kim&theme=dark&show_icons=true) </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
