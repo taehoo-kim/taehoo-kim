@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
+<h3>✨ Career ✨</h3>
+<div>
+  <h1>2017.03~2025.02 아주대학교 사이버보안학과</h1>
+  <h1>2025.02~ TechWing SW 연구원</h1>
+</div>
+
 <!--
 **taehoo-kim/taehoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
