@@ -16,6 +16,7 @@
   <h6>2025.02~ TechWing SW 연구원</h6>
 </div>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogn13)](https://solved.ac/wke1wke1)
 <!--
 **taehoo-kim/taehoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
