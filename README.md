@@ -15,6 +15,7 @@
 
 * 2017.03~2025.02 아주대학교 사이버보안학과
 
+<span style="font-size:50%">2025.02~ TechWing SW 연구원</span>  
 * 2025.02~ TechWing SW 연구원
 
 
