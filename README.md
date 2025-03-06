@@ -11,7 +11,33 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
-
+<div align='center'> 
+  <h3>✨ Career ✨</h3> 
+  <table> 
+    <tr> 
+      <th>Period</th> 
+      <th>Company/Organization</th> 
+      <th>Position</th> <th>Description</th>
+    </tr> 
+    <tr> 
+      <td>YYYY.MM - YYYY.MM</td> 
+      <td>Company Name</td> 
+      <td>Position Title</td> 
+      <td>Brief description of your responsibilities and achievements</td> 
+    </tr> <tr> 
+      <td>YYYY.MM - YYYY.MM</td> 
+      <td>Company Name</td> 
+      <td>Position Title</td> 
+      <td>Brief description of your responsibilities and achievements</td> 
+    </tr> 
+    <tr> 
+      <td>YYYY.MM - YYYY.MM</td> 
+      <td>Company Name</td> 
+      <td>Position Title</td> 
+      <td>Brief description of your responsibilities and achievements</td> 
+    </tr> 
+  </table> 
+</div>
 
 
 
