@@ -12,8 +12,12 @@
 
 
 <h3>✨ Career ✨</h3>
-2017.03~2025.02 아주대학교 사이버보안학과
-2025.02~ TechWing SW 연구원
+* 2017.03~2025.02 아주대학교 사이버보안학과
+
+
+* 2025.02~ TechWing SW 연구원
+
+
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogn13)](https://solved.ac/xogn13)
