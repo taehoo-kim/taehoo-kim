@@ -16,7 +16,7 @@
 
 <dive align='center'>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={xogn13})](https://solved.ac/{xogn13})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogn13)](https://solved.ac/xogn13)
 </div>
 <!--
 **taehoo-kim/taehoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
