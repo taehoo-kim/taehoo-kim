@@ -17,25 +17,17 @@
     <tr> 
       <th>Period</th> 
       <th>Company/Organization</th> 
-      <th>Position</th> <th>Description</th>
+      <th>Position</th>
     </tr> 
     <tr> 
-      <td>YYYY.MM - YYYY.MM</td> 
-      <td>Company Name</td> 
-      <td>Position Title</td> 
-      <td>Brief description of your responsibilities and achievements</td> 
-    </tr> <tr> 
-      <td>YYYY.MM - YYYY.MM</td> 
-      <td>Company Name</td> 
-      <td>Position Title</td> 
-      <td>Brief description of your responsibilities and achievements</td> 
+      <td>2017.03 - 2025.02</td> 
+      <td>아주대학교</td> 
+      <td>사이버보안학과</td>
     </tr> 
     <tr> 
-      <td>YYYY.MM - YYYY.MM</td> 
-      <td>Company Name</td> 
-      <td>Position Title</td> 
-      <td>Brief description of your responsibilities and achievements</td> 
-    </tr> 
+      <td>2025.02 ~</td> 
+      <td>TechWing</td> 
+      <td>SW개발</td>
   </table> 
 </div>
 
