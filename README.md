@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
-<h3>✨ Career ✨</h3>
-<div>
-  <h6>2017.03~2025.02 아주대학교 사이버보안학과</h6>
-  <h6>2025.02~ TechWing SW 연구원</h6>
-</div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogn13)](https://solved.ac/wke1wke1)
+<h3>✨ Career ✨</h3>
+2017.03~2025.02 아주대학교 사이버보안학과
+2025.02~ TechWing SW 연구원
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogn13)](https://solved.ac/xogn13)
 <!--
 **taehoo-kim/taehoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
