@@ -23,11 +23,7 @@
       <td>2017.03 - 2025.02</td> 
       <td>아주대학교</td> 
       <td>사이버보안학과</td>
-    </tr> 
-    <tr> 
-      <td>2025.02 ~</td> 
-      <td>TechWing</td> 
-      <td>SW개발</td>
+    </tr>
   </table> 
 </div>
 
